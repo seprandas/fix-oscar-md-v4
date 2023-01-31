@@ -39,39 +39,39 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['628973956016', '𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌', true],
-['6289519594454', '𝙾𝚜𝚌𝚊𝚛', true]
+['628973956016', 'SANDI😈 𝙾𝚏𝚏𝚌', true],
+['6289519594454', 'SANDI😈', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '0'
-global.nomorown = '6285850539404'
-global.nomorown1 = '6285850539404'
-global.nomorown2 = '6285943036511'
+global.nomorbot = '089519594454'
+global.nomorown = '628973956016'
+global.nomorown1 = '628973956016'
+global.nomorown2 = '6289519594454'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.author = '𝙲𝚛𝚎𝚊𝚝𝚎 By sandi😈 𝚇 BOTZ'
 global.namebot = '𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
-global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 SANDI😈 𝚇 BOTZ'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.wm2 = 'SANDI😈 𝚇 BOTZ'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
-global.packname2 = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛'
+global.packname2 = 'SANDI😈 𝚇 BOTZ'
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
-global.stickpack = '𝙹𝚊𝚛𝚘𝚝 𝚇 𝚘𝚜𝚌𝚊𝚛'
-global.stickauth = `𝙹𝚊𝚛𝚘𝚝 𝚇 𝙾𝚜𝚌𝚊𝚛`
+global.titlebot = `SANDI😈 𝚇 BOT`
+global.stickpack = 'SANDI😈 𝚇 BOTZ'
+global.stickauth = `SANDI😈 𝚇 BOTZ`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙹𝚊𝚛𝚘𝚝 𝚘𝚏𝚏𝚌'
-global.nameown2 = '𝙾𝚜𝚌𝚊𝚛'
+global.nameown1= 'SANDI😈'
+global.nameown2 = 'BOTZ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = '𝚆𝚊𝚒𝚝'
 global.lynk = ''
@@ -85,14 +85,14 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085850539404'
+global.pdana = '085789562500'
 global.povo = '-'
-global.pgopay = '-'
+global.pgopay = '08973956016'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085850539404'
-global.ppulsa2 = '085850539404'
-global.psaweria = 'https://saweria.co/jarotoffc'
-
+global.ppulsa = '085789562500'
+global.ppulsa2 = '08973956016'
+global.psaweria = '0'
+eh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.ListHargaSewa = '├ 5 Hari IDR 5.000\n├ 7 Hari IDR 10.000\n├ 15+5 Hari IDR 13.000\n├ 30 Hari IDR 15.000'
